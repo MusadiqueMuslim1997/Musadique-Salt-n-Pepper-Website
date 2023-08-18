@@ -1,0 +1,312 @@
+
+tr{
+    background-color: black;
+    
+}.header{
+    background-color: black;
+}
+.logo{
+    width: 150px;
+    height: 80px;
+}
+ul{
+    list-style:none;
+    display: flex;
+    margin: 20px;
+   
+    height: auto;
+    gap: 25px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size:large;
+}
+.get{
+   
+    width: 120px;
+    height: 50px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 40px;
+   
+    background-color: black;
+    color: white;
+    font-size: smaller;
+    
+    text-align: center;
+    
+ 
+   
+    
+}
+.navb{
+    display: flex;
+    margin: 20px;
+   
+    height: auto;
+    gap: 20px;
+}
+.red{
+    width: 150px;
+    height: 50px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 40px;
+   
+    background-color: red;
+    color: white;
+    font-size: smaller;
+    
+    text-align: center;
+}
+.bg{
+    width:100%;
+    height:400px;
+}
+h1{
+        color: white;
+}
+.silver{
+    color: silver;
+    font-size: larger;
+}
+.box{
+    
+    display: inline-block;
+    width: 250px;
+    height: 150px;
+    background-color: white;
+    margin: 20px;
+    
+    border-radius: 10px;
+    justify-content: space-between;
+}
+.logo1{
+    width: 250px;
+    height: 120px;
+   
+}
+.order{
+    
+    color: white;
+    text-align: center;
+    margin: 55px;
+    display: inline-block;
+    
+    justify-content: space-between;
+    
+    width:180px;
+    height:50px;
+    border-radius: 40px;
+    background-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-color: aliceblue;
+    
+    
+}
+.islam{
+
+    width: 400px;
+}
+.franch{
+    gap: 30px;
+   margin: 40px;
+    width: 40%;
+    height: 250px;
+    display: inline-block;
+    background-color: black;
+    
+}
+.child{
+    position: absolute;
+}
+.brown{
+   
+    color: brown;
+    text-align: left;
+    padding:0px 5px;
+}
+.left{
+    text-align: left;
+    padding:0px 5px;
+    
+}
+.image{
+    width: 395px;
+    height:250px;
+    float: left;
+}
+.direction{
+    float: left;
+    color: white;
+    text-align: center;
+    margin: 2px;
+    display: inline-block;
+    
+    
+    
+    width:180px;
+    height:50px;
+    border-radius: 40px;
+    background-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-color: aliceblue;
+    
+}
+.lefta{
+    text-align: left;
+    margin: 2px;
+    color: silver;
+}
+.franchise{
+    display: inline-block;
+    width: 280px;
+    height: 200px;
+    background-color: white;
+    margin: 10px;
+    
+    border-radius: 10px;
+    justify-content: space-between;
+}
+.car{
+ 
+    width: 280px;
+    height: 200px;
+    
+}
+.express1{
+    color: brown;
+    text-align: center;
+
+}
+.express3{
+    color: silver;
+}
+.direction1{
+    
+    color: white;
+    text-align: center;
+    margin: 2px;
+    display: inline-block;
+    
+    
+    
+    width:180px;
+    height:50px;
+    border-radius: 40px;
+    background-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-color: aliceblue;
+}
+.express{
+    display: inline-block;
+    width: 250px;
+    height: 180px;
+    margin: 20px;
+}
+.directions{
+    float: left;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    display: inline-block;
+    
+    
+    
+    width:180px;
+    height:50px;
+    border-radius: 40px;
+    background-color: green;
+    border-width: 1px;
+    border-style: solid;
+    border-color: green;
+}
+.images{
+    width: 400px;
+    height:260px;
+    float: left;
+    gap: 10px;
+}
+.ww{
+
+    background-color: white;
+    height: 280px;
+    width: 250px;
+    border-radius: 10px;
+    margin: 20px;
+    display: inline-block;
+}
+.icon{
+    margin:30px;
+}
+.express4{
+    color: brown;
+    margin: 0px;
+}
+.express5{
+    color: black;
+    margin: 2px;
+    font-size: large;
+    margin: 0px;
+    
+}
+.image5{
+    height: 170px;
+    width: 150px;
+    background-color: white;
+    display: inline-block;
+    margin: 10px;
+   
+}
+.img5{
+    height: 170px;
+    width: 130px;
+}
+.footer{
+margin: 200px 10px;
+display: inline-block;
+width: 280px;
+
+}
+.ic{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: red;
+    display: inline-block;
+    margin: 3px 2px;
+    justify-content: space-between;
+    
+}
+.icn{
+    width: 30px;
+    height: 30px;
+    margin: 18%;
+    background-color: red;
+    
+   
+    
+}
+.rect{
+    width: 150px;
+    height: 50px;
+    background-color: black;
+    margin: 20px 2px;
+    border: none;
+}
+.rec{
+    width: 150px;
+    height: 50px;
+}
+i{
+    color: white;
+    margin: 15px;
+}
+.ired{
+    display: inline-block;
+    color: red;
+}
